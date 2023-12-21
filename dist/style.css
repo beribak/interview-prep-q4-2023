@@ -1,0 +1,14 @@
+.apexcharts-legend-text {
+  width: 100px !important;
+  overflow: hidden; 
+}
+
+.container {
+  background-color: aqua;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  width: 25%;
+}
